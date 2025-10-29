@@ -1,0 +1,18 @@
+Exercici 1. 1.75/2
+  Us he de descomptar una mica perquè clarament heu utilitzat una funció / manera de fer-ho, que si ara us demano replicar-ho, estic segur que no sabreu com funciona la funció.
+  El següent dia faig l'experiment, i si em sabeu explicar-ho, us poso 2/2.
+  Parlo de:
+      [perimetre for radi, perimetre in zip(llista_radis, llista_perimetres) if radi % 2 == 0]
+        
+Exercici 2. 1/2
+  Us heu fet un lio terrible per resoldre la diferència entre les llargades que em fa pensar que no heu entès com utilitzar la funció len().
+  
+Exercici 3. 2/2
+
+Exercici 4. 2/2
+
+Jupyter: 1/1
+
+Github: 1/1
+
+Nota final: 8.75/10
